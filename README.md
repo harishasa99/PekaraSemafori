@@ -1,2 +1,1 @@
-# Pekara-semafori
 # PekaraSemafori
